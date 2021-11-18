@@ -6,7 +6,9 @@ Despite my computing reluctance, I managed to understand the basics of how leds 
 **Follow steps by steps this simple tutorial to light 3 LEDS on a bread board thanks to the Arduino UNO board**
 
 1- Take the USB cable from your kit and plug it in your laptop
+
 2- Plug the other extremity in your Arduino UNO board
+
 3- Now take the bread board from your kit
 4- Connect a wire from the 5v port of your Arduino UNO board to one of the negative ports of the bread board
 5- Connect a wire from the GND port of your Arduino UNO board to the positive port next to the previous connexion
