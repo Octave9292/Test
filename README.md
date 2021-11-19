@@ -3,6 +3,9 @@
 Software, computing tools and digital interfaces are the opposite of my usual work. I am completely lost when I can't work with physical materials as paint, paper, stones... When I started to delve into the creative computing, I was disoriented among the tutorials, the vocabulary, the electric components, the LEDS, the wires, the softwares. As I was trying to understand all of these, I realised that I didn't have time to think about ideas, prototypes that I could make using these new medias. At one point, I just decided to use my misunderstandings of the whole creative computing universe as a final outcome/idea. I was going in a circle, trying, failing, not understanding, it was really fustrating and that was that feeling that i wanted to represent, to recreate. Then, I decided to recreate one of these tutorials, from Tinkercard or from Paul McWorther's videos. My tutorial had to be almost impossible, using the most specific terms and with an infinite amount of steps. 
 Despite my computing reluctance, I managed to understand the basics of how leds and the circuit in kits are working and. I realised with the help of a classmate
 
+![_MG_5116](https://user-images.githubusercontent.com/94467816/142608983-4f26ed1a-11d9-4eba-9814-86e5d47b2a8f.JPG)
+
+
 **Follow steps by steps this simple tutorial to light 3 LEDS on a bread board**
 
 1- Take the USB cable from your kit and plug it in your laptop
@@ -84,6 +87,8 @@ Despite my computing reluctance, I managed to understand the basics of how leds 
 39- Connect a wire from the c4 port to the 9th right negative port
 
 40- Connect a wire from the c1 port to the j5 port
+
+
 
 
 
