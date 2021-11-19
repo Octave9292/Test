@@ -98,7 +98,7 @@ Despite my computing reluctance, I managed to understand the basics of how leds 
 
 *Reference*
 
-This week, I didn't have the time to look as much as the other workshops for references. However, I had some artists in mind that were using LEDS technologies for their artworks. I saw the work of Dan Flavin in an art gallery last year in Paris. This artist used to work with fluorescent light tubes, making sculptures with this unusual media in large empty rooms. I really liked how the lights and the colors in his work reverberate in the rooms and blend together. I tried to reproduce that in my final outcome with the LED light reverberating on a wire jumble, to create this aesthethic mess.
+This week, I didn't have the time to look as much as the other workshops for references. However, I had some artists in mind that were using LEDS technologies for their artworks. I saw the work of Dan Flavin in an art gallery last year in Paris. This artist used to work with fluorescent light tubes, making sculptures with this unusual media in large empty rooms. I really liked how the lights and the colors in his work reverberate in the rooms and blend together. I tried to reproduce that in my final outcome with the LED light reverberating on a jumble of wires, to create this aesthethic mess.
 
 ![image](https://user-images.githubusercontent.com/94467816/142622399-0ea3af91-c9ba-4f40-8d27-478490f9ea17.png)
 
