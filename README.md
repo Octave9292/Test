@@ -91,7 +91,9 @@ Despite my computing reluctance, I managed to understand the basics of how leds 
 **Congratulation! You completed the tutorial!**
 
 *You should obtain the following circuit:*
-![_MG_5118](https://user-images.githubusercontent.com/94467816/142609445-a4e5cfee-9478-4ed0-a547-1b44f844b57d.JPG)![Uploading _MG_5121.JPG…]()
+
+![Readme file 2](https://user-images.githubusercontent.com/94467816/142612937-3fc4a4fa-4bcd-4782-88e9-69def9b36036.jpg)
+
 
 
 
