@@ -94,8 +94,11 @@ Despite my computing reluctance, I managed to understand the basics of how leds 
 
 ![Readme file 2](https://user-images.githubusercontent.com/94467816/142612937-3fc4a4fa-4bcd-4782-88e9-69def9b36036.jpg)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+*Reference*
 
+This wweek, I didn't have the time to look as much as the other workshops for references. However, I had some artists in mind that were using LEDS technologies for their artworks. I saw the work of Dan Flavin in an art gallery last year in Paris. This artist used to work with fluorescent light tubes, making sculptures with this unusual media in large empty rooms. I really liked how the lights and the colors in his work reverberate in the rooms and blend together. 
 
 
 
